@@ -111,6 +111,11 @@ img {
 }
 
 @media screen and (max-width:900px) {
+  html, body {
+    font-size: 18px;
+  }
+
+
   .one-of-two {
     width: 100%;
   }
